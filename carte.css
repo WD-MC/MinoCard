@@ -1,0 +1,92 @@
+h3{
+    text-align:center;
+}
+
+hr{
+    width: 300px;
+    color:rgb(211, 130, 9);
+}
+
+strong{
+    font-size:20px;
+}
+
+.titre{
+    margin:30px;
+}
+.texte{
+    margin-left:30px ;
+    color:rgba(255, 0, 0, 0.527);
+}
+.infos{
+    margin:30px
+}
+
+.infos1{
+    display:flex;
+    margin: 20px;
+}
+.infosdemande{
+    display:inline-block;
+    width: 50vw;
+    height:50vh;
+    border:1px solid black;
+    padding-left:20px;
+    
+}
+
+.citoyen{
+    display:inline-block;
+    width: 50vw;
+    height:50vh;
+    border:1px solid black;
+    padding-left:20px;
+
+}
+
+.infos2{
+    display:flex;
+    margin: 20px; 
+}
+
+.naissance{
+    display:inline-block;
+    width: 50vw;
+    height:50vh;
+    border:1px solid black;
+    padding-left:20px;
+}
+
+.residence{
+    display:inline-block;
+    width: 50vw;
+    height:50vh;
+    border:1px solid black;
+    padding-left:20px;
+}
+
+.infos3{
+    display:flex;
+    margin: 20px;
+}
+.signal{
+    display:inline-block;
+    width: 50vw;
+    height:50vh;
+    border:1px solid black;
+    padding-left:20px;
+}
+
+.parent{
+    display:inline-block;
+    width: 50vw;
+    height:50vh;
+    border:1px solid black;
+    padding-left:20px;
+}
+
+.mode{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 10px 0px 0px;
+}

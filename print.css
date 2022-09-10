@@ -1,0 +1,31 @@
+
+.row{
+    margin-top: 30px;
+}
+
+.block{
+    margin: 0px;
+}
+.image{
+    border: 1px solid black; 
+    width:200px;
+    height: 220px; 
+    margin: 30px;
+}
+
+#vide{
+    border: 1px solid black;
+    width:300px;
+    height: 130px;
+}
+
+#vide1{
+    border: 1px solid black;
+    width:300px;
+    height: 130px;
+    margin-left: 200px;
+}
+
+#print{
+    text-align: end;
+}
